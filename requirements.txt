@@ -1,0 +1,1 @@
+numpy==1.15.4streamlit==0.52.2pandas==1.1.5requests==2.18.4Pillow==5.0.0gunicorn==19.4.5
